@@ -1,0 +1,3 @@
+cenarios
+personagens secundarios
+transportes
