@@ -1,2 +1,5 @@
 1. Trama principal
 2. Personagens
+3. Storyboard
+4. Design de som
+5. Level design
